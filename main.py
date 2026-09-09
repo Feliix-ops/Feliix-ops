@@ -26,7 +26,7 @@ TOKENS = [
 TOKENS = [t.strip() for t in TOKENS if t.strip()]
 
 
-OWNER_ID 
+OWNER_ID6660636738
 OWNER_IDS = [6660636738]# FIX: Added OWNER_IDS list
 
 ADMINS_FILE = "admin_ids.json"
